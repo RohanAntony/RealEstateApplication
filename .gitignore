@@ -7,3 +7,7 @@ db.sqlite3
 media
 static
 venv
+.idea
+btre_theme
+images
+logo
