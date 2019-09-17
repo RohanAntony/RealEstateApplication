@@ -11,3 +11,4 @@ venv
 btre_theme
 images
 logo
+migrations/
